@@ -69,7 +69,7 @@ The Tableau dashboard is built from SQL views created in `SQLQueryCovid.sql`:
 - `CountriesDeathRateperPop`
 - `PopvsVac`
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Key Findings
 
