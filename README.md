@@ -71,8 +71,6 @@ The Tableau dashboard is built from SQL views created in `SQLQueryCovid.sql`:
 
 ![Dashboard Preview](dashboard.png)
 
-*Add a screenshot of your dashboard at `images/dashboard.png`, and a link to the live version on Tableau Public if you publish it.*
-
 ## Key Findings
 
 *Fill these in with your own results. A few prompts to get you started:*
